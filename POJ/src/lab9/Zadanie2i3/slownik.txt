@@ -1,0 +1,8 @@
+car
+samochód
+dog
+pies
+drink
+napój
+bag
+torba
